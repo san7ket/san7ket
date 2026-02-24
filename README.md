@@ -82,4 +82,3 @@ I lead extended lifecycle maintenance for Red Hat OpenShift AI — handling bugs
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-san7ket-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/san7ket)
-[![Blog](https://img.shields.io/badge/Blog-technovortex.com-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.technovortex.com)
