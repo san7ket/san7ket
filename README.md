@@ -48,5 +48,3 @@ RHCE | RHCSA | Red Hat OpenStack Admin | Red Hat Virtualization Admin | EC-Counc
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=san7ket&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=san7ket&layout=compact&theme=default&hide_border=true)
