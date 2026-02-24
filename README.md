@@ -63,16 +63,6 @@ I lead extended lifecycle maintenance for Red Hat OpenShift AI — handling bugs
 
 ---
 
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/san7ket/san7ket/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/san7ket/san7ket/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/san7ket/san7ket/output/github-snake.svg" />
-</picture>
-
----
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=san7ket&theme=default&hide_border=true)
 
 ### Connect
