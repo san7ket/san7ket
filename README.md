@@ -63,10 +63,6 @@ I lead extended lifecycle maintenance for Red Hat OpenShift AI — handling bugs
 
 ---
 
-### Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=san7ket&theme=flat&no-frame=true&column=6&margin-w=10)
-
 ### Contribution Snake
 
 <picture>
