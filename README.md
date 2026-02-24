@@ -45,8 +45,6 @@ RHCE | RHCSA | Red Hat OpenStack Admin | Red Hat Virtualization Admin | EC-Counc
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-san7ket-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/san7ket)
-[![Blog](https://img.shields.io/badge/Blog-technovortex.com-green?style=flat&logo=google-chrome)](https://www.technovortex.com)
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=san7ket&show_icons=true&theme=default&hide_border=true&count_private=true)
