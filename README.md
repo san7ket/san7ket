@@ -63,9 +63,23 @@ I lead extended lifecycle maintenance for Red Hat OpenShift AI — handling bugs
 
 ---
 
-### Connect
+### Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-san7ket-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/san7ket)
+![Trophies](https://github-profile-trophy.vercel.app/?username=san7ket&theme=flat&no-frame=true&column=6&margin-w=10)
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/san7ket/san7ket/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/san7ket/san7ket/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/san7ket/san7ket/output/github-snake.svg" />
+</picture>
+
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=san7ket&theme=default&hide_border=true)
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-san7ket-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/san7ket)
+[![Blog](https://img.shields.io/badge/Blog-technovortex.com-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.technovortex.com)
